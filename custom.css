@@ -56,6 +56,25 @@ color: #606060;
     box-sizing: border-box;
 }
 
+.hover-nav a{
+    color: #8B8B8B!important;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.hover-nav:hover a{
+    color: #5468E7!important;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    
+}
+
 .text-about{
 font-family: 'SF Pro Display';
 font-style: normal;
